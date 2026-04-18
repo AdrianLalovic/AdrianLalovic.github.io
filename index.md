@@ -30,5 +30,5 @@ See my featured engineering projects projects.md.
 
 ## Contact
 - 📧 adrian.lalovic@torontomu.ca
-- 🔗 LinkedIn: linkedin.com/in/adrian-lalovic-2259a03a1
+- 🔗 LinkedIn: [linkedin.com/in/adrian-lalovic-2259a03a1](https://www.linkedin.com/in/adrian-lalovic-2259a03a1/)
 
