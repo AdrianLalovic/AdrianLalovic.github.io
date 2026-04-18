@@ -26,7 +26,7 @@ with hands-on experience in mechanical design, manufacturing, and analysis.
 - Ability to manage multiple priorities  
 
 ## Projects
-See my featured engineering projects projects.md.
+See my featured engineering projects [here](projects.md).
 
 ## Contact
 - 📧 adrian.lalovic@torontomu.ca
