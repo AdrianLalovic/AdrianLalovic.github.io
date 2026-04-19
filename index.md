@@ -26,7 +26,11 @@ with hands-on experience in mechanical design, manufacturing, and analysis.
 - Ability to manage multiple priorities  
 
 ## Projects
-See my featured engineering projects [here](projects.md).
+See my [featured engineering projects](projects.md):
+- [Arduino Robotics & Autonomous Systems Project (May 2025 - August 2025)](arduino.md)
+- [Small Glider Design & Manufacturing Project  (September 2025 - December 2025)](glider.md)
+- [Aircraft Flight Modeling & Simulation (January 2025 - April 2025)](flight_modeling.md)
+- [Walking Robot Design Project (January 2025 - April 2025)](walking_robot.md)
 
 ## Contact
 - 📧 adrian.lalovic@torontomu.ca
