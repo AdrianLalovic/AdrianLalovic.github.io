@@ -7,13 +7,15 @@ with hands-on experience in mechanical design, manufacturing, and analysis.
 
 ## Skills  
 **Technical Skills**  
-- **Mechanical Design & Engineering:** Mechanical system design, component and assembly design, design for manufacturability (DFM), tolerance analysis, reliability principles  
-- **CAD & Drafting:** SolidWorks, CATIA, 3D modeling, assemblies, detailed drawings, basic GD&T  
-- **Analysis & Simulation:** Structural analysis, fatigue considerations, MATLAB, Simulink, ANSYS (FEA & CFD), performance and durability evaluation  
-- **Manufacturing & Prototyping:** CNC machining, additive manufacturing (3D printing), composite fabrication, hands‑on assembly and integration  
-- **Testing & Validation:** Component testing, qualification support, data collection and analysis, root‑cause analysis, design verification  
-- **Programming & Software:** MATLAB, C++, Java, Microsoft SQL, Microsoft Office (Excel, Word, PowerPoint)  
-- **Documentation & Tools:** Technical reporting, design reviews, process documentation, engineering change support  
+- **CAD & Aerospace Design:** SolidWorks, CATIA; 3D part & assembly modeling; aerostructures; manufacturing drawings; design for manufacturability (DFM); basic GD&T
+- **Flight Mechanics & Dynamics:** Flight dynamics; equations of motion; 6‑DOF modeling; kinematics; multibody dynamics
+- **Modeling & Simulation:** MATLAB, Simulink; ANSYS (FEA & CFD); numerical modeling; time‑domain simulation; performance and stability analysis
+- **Aerodynamics:** Lift/drag estimation; airfoil selection; mass and performance optimization
+- **Structures & Manufacturing:** CNC machining, additive manufacturing (3D printing); Lightweight structures; composite fabrication; additive manufacturing; tolerance analysis
+- **Testing & Validation:** Component/system testing; data analysis; root‑cause analysis; simulation‑to‑test correlation; design verification
+- **Embedded & Systems:** Arduino / Embedded C++; sensor integration; electromechanical systems
+- **Programming & Software:** Java; Microsoft SQL; Microsoft Office (Excel, Word, PowerPoint) 
+- **Engineering Practices:** Technical documentation; trade studies; configuration control; cross‑functional collaboration; design reviews, process documentation, engineering change support 
 
 **Professional Skills**  
 - Communicated complex technical concepts clearly to diverse audiences  
